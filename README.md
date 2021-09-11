@@ -1,2 +1,4 @@
 # U-NeXt
-the  model  code of U-NeXt
+This repository is the implementation of U-NeXt.
+
+
